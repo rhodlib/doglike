@@ -2,6 +2,8 @@
 
 ## This is a web to search pictures of dog's
 
+[DEMO](http://rhodlib.github.io/doglike)
+
 ### To run this web
 
 1. Clone this repo on your PC
