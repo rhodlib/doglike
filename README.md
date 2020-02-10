@@ -2,7 +2,7 @@
 
 ## This is a web to search pictures of dog's
 
-[DEMO](http://rhodlib.github.io/doglike)
+[DEMO](http://rhodlib.github.io/doglike/)
 
 ### To run this web
 
