@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/doglike/static/css/main.445381e9.chunk.css",
+    "main.js": "/doglike/static/js/main.cac582f5.chunk.js",
+    "main.js.map": "/doglike/static/js/main.cac582f5.chunk.js.map",
+    "runtime-main.js": "/doglike/static/js/runtime-main.8d9cc716.js",
+    "runtime-main.js.map": "/doglike/static/js/runtime-main.8d9cc716.js.map",
+    "static/js/2.be794f69.chunk.js": "/doglike/static/js/2.be794f69.chunk.js",
+    "static/js/2.be794f69.chunk.js.map": "/doglike/static/js/2.be794f69.chunk.js.map",
+    "index.html": "/doglike/index.html",
+    "precache-manifest.c8a0ffc954ed8bb93a6e382d621b6e83.js": "/doglike/precache-manifest.c8a0ffc954ed8bb93a6e382d621b6e83.js",
+    "service-worker.js": "/doglike/service-worker.js",
+    "static/css/main.445381e9.chunk.css.map": "/doglike/static/css/main.445381e9.chunk.css.map",
+    "static/js/2.be794f69.chunk.js.LICENSE.txt": "/doglike/static/js/2.be794f69.chunk.js.LICENSE.txt",
+    "static/media/blackpaw.png": "/doglike/static/media/blackpaw.93075267.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d9cc716.js",
+    "static/js/2.be794f69.chunk.js",
+    "static/css/main.445381e9.chunk.css",
+    "static/js/main.cac582f5.chunk.js"
+  ]
+}

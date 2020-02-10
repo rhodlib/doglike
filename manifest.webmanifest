@@ -1,0 +1,10 @@
+{
+    "background_color": "#D06",
+    "description": "Dog display app",
+    "display": "standalone",
+    "name": "Doglike",
+    "orientation": "any",
+    "short_name": "Doglike",
+    "start_url": "/",
+    "theme_color": "#d06"
+  }
