@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="DogDetails"
+  >
+    <h1
+      class="Title "
+    >
+      test
+    </h1>
+    <img
+      alt="test"
+      class="Image"
+      src="test"
+    />
+    <div
+      class="ActionButtons"
+    >
+      <a
+        class="Back"
+        href="/"
+      />
+      <a
+        class="Reload"
+        href="/post/test"
+        tabindex="0"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Without dogImage 1`] = `
+<DocumentFragment>
+  <div
+    class="DogDetails"
+  >
+    <div
+      class="Loader Spinner"
+    />
+  </div>
+</DocumentFragment>
+`;

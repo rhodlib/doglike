@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<DocumentFragment>
+  <main
+    class="HomePage"
+  >
+    <header
+      class="Header"
+    >
+      <h1
+        class="Title Title"
+      >
+        dog like
+      </h1>
+      <input
+        class="SearchBar"
+        list="dogs"
+        placeholder="Search dog race"
+        value=""
+      />
+      <datalist
+        id="dogs"
+      />
+    </header>
+    <div
+      class="CardList"
+    />
+    <div
+      class="Footer"
+    >
+      <p
+        class="FooterParagraph"
+      >
+        Created by 
+        <a
+          class="FooterAnchor"
+          href="https://rhodlib.me"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Rhodlib
+        </a>
+      </p>
+    </div>
+  </main>
+</DocumentFragment>
+`;

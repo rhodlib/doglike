@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Footer"
+  >
+    <p
+      class="FooterParagraph"
+    >
+      Created by 
+      <a
+        class="FooterAnchor"
+        href="https://rhodlib.me"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Rhodlib
+      </a>
+    </p>
+  </div>
+</DocumentFragment>
+`;

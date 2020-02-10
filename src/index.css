@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+:root {
+  --color-brand: #d06;
+  --color-white: #fff;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--color-brand);
+  background: linear-gradient(
+    135deg,
+    var(--color-brand) 0%,
+    var(--color-brand) 50%,
+    var(--color-white) 50%
+  );
+  background-size: 100vw 100vh;
+  background-attachment: fixed;
+}

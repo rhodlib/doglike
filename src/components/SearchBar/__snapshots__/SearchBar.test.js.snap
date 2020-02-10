@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<DocumentFragment>
+  <input
+    class="SearchBar"
+    list="dogs"
+  />
+  <datalist
+    id="dogs"
+  />
+</DocumentFragment>
+`;
+
+exports[`Matches snapshot 2`] = `
+<DocumentFragment>
+  <input
+    class="SearchBar"
+    list="dogs"
+  />
+  <datalist
+    id="dogs"
+  >
+    <option
+      value="test"
+    />
+  </datalist>
+</DocumentFragment>
+`;

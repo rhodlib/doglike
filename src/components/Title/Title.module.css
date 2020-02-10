@@ -1,0 +1,13 @@
+.Title {
+  margin-top: 0px;
+  font-size: 3vw;
+  color: var(--color-white);
+  text-transform: uppercase;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+@media (max-width: 1080px) {
+  .Title {
+    font-size: 10vw;
+  }
+}
